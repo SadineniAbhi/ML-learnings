@@ -1,3 +1,3 @@
 # ML-learnings
 
-contains my lernings of machine learning
+contains my learnings of machine learning
